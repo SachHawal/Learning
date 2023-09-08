@@ -1,0 +1,158 @@
+INFO:root:This is my first Login Info
+INFO:root:this is my first print using looging info
+INFO:root:This is my first Login Info
+INFO:root:this is my first print using looging info
+INFO:root:this is my first print using looging info
+ERROR:root:this is a error message
+CRITICAL:root:this is a bug message
+WARNING:root:this is a bug message
+ERROR:root:this is a error message
+CRITICAL:root:this is a bug message
+WARNING:root:this is a warning message
+INFO:root:This is my first Login Info
+INFO:root:this is my first print using looging info
+ERROR:root:this is a error message
+CRITICAL:root:this is a critical message
+WARNING:root:this is a warning message
+INFO:root:This is my first Login Info
+INFO:root:this is my first print using looging info
+ERROR:root:this is a error message
+CRITICAL:root:this is a critical message
+WARNING:root:this is a warning message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:This is my first Login Info
+INFO:root:this is my first print using looging info
+INFO:root:This is my first Login Info
+INFO:root:this is my first print using looging info
+ERROR:root:this is a error message
+CRITICAL:root:this is a critical message
+WARNING:root:this is a warning message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:This is my first Login Info
+INFO:root:this is my first print using looging info
+ERROR:root:this is a error message
+CRITICAL:root:this is a critical message
+WARNING:root:this is a warning message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 963bdbd4-df1d-4711-9044-1fb2bfed69c5
+INFO:root:This is my first Login Info
+INFO:root:this is my first print using looging info
+ERROR:root:this is a error message
+CRITICAL:root:this is a critical message
+WARNING:root:this is a warning message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: cbcb6511-1005-4ae6-9a58-4d3253e69903
+INFO:root:This is my first Login Info
+INFO:root:this is my first print using looging info
+ERROR:root:this is a error message
+CRITICAL:root:this is a critical message
+WARNING:root:this is a warning message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:this is a saksh and sach info  message
+ERROR:root:this is a saksh and sach error  message
+CRITICAL:root:this is a saksh and sach critical  message
+INFO:root:This is my first Login Info
+INFO:root:this is my first print using looging info
+ERROR:root:this is a error message
+CRITICAL:root:this is a critical message
+WARNING:root:this is a warning message
+INFO:root:this is a sach info  message
+ERROR:root:this is a sach error  message
+CRITICAL:root:this is a sach critical  message
+INFO:root:this is a saksh and sach info  message
+ERROR:root:this is a saksh and sach error  message
+CRITICAL:root:this is a saksh and sach critical  message
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning msg
+ERROR:root:this is my error
+CRITICAL:root:this is my critical msg
+INFO:root:this is my info logging 
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:this is my info logging 
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:i am inside if statement and i am trying to check list type[2, 3, 4]
+INFO:root:i am in anothe for loop for list inside list element 2
+INFO:root:i am inside if statement
+INFO:root:i am in anothe for loop for list inside list element 3
+INFO:root:i am inside if statement
+INFO:root:i am in anothe for loop for list inside list element 4
+INFO:root:i am inside if statement
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:my final result for int is [1, 2, 3, 34, 4, 2, 3, 4] and str is ['sudh', 'kumar']
+INFO:root:this is my info logging 
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:i am inside if statement and i am trying to check list type[2, 3, 4]
+INFO:root:i am in anothe for loop for list inside list element 2
+INFO:root:i am inside if statement
+INFO:root:i am in anothe for loop for list inside list element 3
+INFO:root:i am inside if statement
+INFO:root:i am in anothe for loop for list inside list element 4
+INFO:root:i am inside if statement
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:my final result for int is [1, 2, 3, 34, 4, 2, 3, 4] and str is ['sudh', 'kumar']

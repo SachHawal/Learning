@@ -1,0 +1,23 @@
+2023-07-27 05:36:55,381, this is a sach info  message
+2023-07-27 05:36:55,382, this is a sach error  message
+2023-07-27 05:36:55,382, this is a sach critical  message
+2023-07-27 05:38:02,832, pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-07-27 05:38:02,880, pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-07-27 05:38:05,465, diff parser start
+2023-07-27 05:38:05,465, line_lengths old: 1; new: 1
+2023-07-27 05:38:05,466, -> code[replace] old[1:1] new[1:1]
+2023-07-27 05:38:05,466, parse_part from 1 to 1 (to 0 in part parser)
+2023-07-27 05:38:05,466, diff parser end
+2023-07-27 05:38:05,486, pickle loaded: /opt/conda/lib/python3.10/logging/__init__.py
+2023-07-27 05:44:37,637, this is a sach info  message
+2023-07-27 05:44:37,638, this is a sach error  message
+2023-07-27 05:44:37,638, this is a sach critical  message
+2023-07-27 05:45:18,587, this is a sach info  message
+2023-07-27 05:45:18,587, this is a sach error  message
+2023-07-27 05:45:18,587, this is a sach critical  message
+2023-07-27 05:45:28,092, this is a sach info  message
+2023-07-27 05:45:28,093, this is a sach error  message
+2023-07-27 05:45:28,093, this is a sach critical  message
+2023-07-27 05:45:43,481, this is a sach info  message
+2023-07-27 05:45:43,482, this is a sach error  message
+2023-07-27 05:45:43,482, this is a sach critical  message
